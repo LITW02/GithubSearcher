@@ -1,0 +1,33 @@
+﻿@model GithubAPI.Models.IndexViewModel
+
+<div class="row">
+    <div class="col-md-6 col-lg-offset-3 well">
+        <form>
+            <input type="text" name="username" value="@Model.Username" class="input-lg form-control" placeholder="Username"/>
+            <br/>
+            <button class="btn btn-primary">Search</button>
+        </form>
+    </div>
+</div>
+
+@if (Model.Repos != null)
+{
+    <table class='table table-hover table-striped table-bordered'>
+        <tr>
+            <th>Name</th>
+            <th>Description</th>
+            <th>Language</th>
+            <th>Stars</th>
+        </tr>
+        @foreach (var repo in Model.Repos)
+        {
+            <tr>
+                <td>@repo.Name</td>
+                <td>@repo.Description</td>
+                <td>@repo.Language</td>
+                <td>@repo.Stars</td>
+            </tr>
+        }
+    </table>
+}
+

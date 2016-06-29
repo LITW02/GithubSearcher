@@ -1,0 +1,7 @@
+c:\users\alexfriedman\documents\visual studio 2013\Projects\GithubAPI\GithubAPI.API\bin\Debug\GithubAPI.API.dll
+c:\users\alexfriedman\documents\visual studio 2013\Projects\GithubAPI\GithubAPI.API\bin\Debug\GithubAPI.API.pdb
+c:\users\alexfriedman\documents\visual studio 2013\Projects\GithubAPI\GithubAPI.API\bin\Debug\Newtonsoft.Json.dll
+c:\users\alexfriedman\documents\visual studio 2013\Projects\GithubAPI\GithubAPI.API\bin\Debug\Newtonsoft.Json.xml
+c:\users\alexfriedman\documents\visual studio 2013\Projects\GithubAPI\GithubAPI.API\obj\Debug\GithubAPI.API.csprojResolveAssemblyReference.cache
+c:\users\alexfriedman\documents\visual studio 2013\Projects\GithubAPI\GithubAPI.API\obj\Debug\GithubAPI.API.dll
+c:\users\alexfriedman\documents\visual studio 2013\Projects\GithubAPI\GithubAPI.API\obj\Debug\GithubAPI.API.pdb
